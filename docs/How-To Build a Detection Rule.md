@@ -12,6 +12,7 @@ These are the ones you’ll see most often and will build most of your early det
 - Exfiltration — moving the data out (HTTP uploads, DNS tunneling, cloud storage).
 - Command & Control (C2) — remote control channels (HTTP beaconing, DNS, custom protocols).
 
+A practical framework you’ll run into is MITRE ATT&CK; it maps techniques to categories.
 
 ## 2. Pick easy, high-value techniques to detect first.
 
