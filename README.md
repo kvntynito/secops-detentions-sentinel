@@ -56,9 +56,13 @@ You can recreate this with minimal cost using an Azure trial subscription.
 
 ## 📊 Deliverables
 ✅ Detection rules (KQL)
+
 ✅ Incident reports documenting triage & findings
+
 ✅ Log samples for reproducible testing
+
 ✅ Architecture flow diagram showing log ingestion paths
+
 ✅ Screenshots of alerts & incident timelines
 
 ## 🧠 What I Learned
