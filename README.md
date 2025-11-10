@@ -1,6 +1,7 @@
 # <Project Title>
 
-SIEM + Detection Engineering Repo
+This project showcases hands-on Security Operations (SecOps) skills using Microsoft Sentinel.
+It includes detection rules, incident investigations, log samples, and automation scripts used to identify and respond to suspicious activity in a simulated enterprise environment.
 
 ## 🎯 Objectives
 - Detection rules
