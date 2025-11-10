@@ -1,0 +1,2 @@
+Risk ID,Asset,Threat,Vulnerability,Likelihood (1-5),Impact (1-5),Risk Score (=L*I),Current Controls,Recommended Mitigations,Owner,Due Date
+R-001,AD Domain,Credential Theft,Weak PS policy,4,5,20,EDR; LAPS,Enable MFA; tighten PS via GPO,SecOps,2025-12-31
