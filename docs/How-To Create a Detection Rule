@@ -5,7 +5,7 @@ SECOND,
 Pick easy, high-value techniques to detect first.
 
 THIRD,
-Use the template to create a detection file (I’ll give you one).
+Use the template to create a detection file.
 
 FOURTH,
 Test it later in a VM with Sysmon + Windows logs when you’re ready.
