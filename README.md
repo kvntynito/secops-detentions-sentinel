@@ -10,13 +10,13 @@ It includes detection rules, incident investigations, log samples, and automatio
 - Logs
 - Architecture diagram
 
-## 🧪 What’s Inside
+## 📁 What’s Inside
 - `docs/` – reports, playbooks, baselines, diagrams
 - `scripts/` – Python/PowerShell/Bash utilities
 - `lab/` – sample logs, datasets, IaC
 - `.github/` – issue/PR templates
 
-## 🏗️ Lab Setup (Quick Start)
+## 🧪 Lab Setup (Quick Start)
 - Host: Proxmox/VMWare/Hyper-V/Docker (choose one)
 - VMs: Windows Server 2019, Ubuntu 22.04, Kali
 - Network: pfSense with two VLANs (Home / Lab)
